@@ -1,0 +1,145 @@
+ {
+    "question": [
+      {
+        "-id": "q01",
+        "number": "Pregunta 1",
+        "type": "text",
+        "title": "I. ¿Cómo se llama el enemigo principal del juego?",
+        "answer": "Garland"
+      },
+      {
+        "-id": "q02",
+        "number": "Pregunta 2",
+        "type": "text",
+        "title": "II. ¿Qué titulo recibe el emperador enemigo?",
+        "answer": "Emperador"
+      },
+      {
+        "-id": "q03",
+        "number": "Pregunta 3",
+        "type": "select",
+        "title": "III. ¿Cual es la profesión más fuerte?",
+        "option": [
+          "Asesino",
+          "Caballero Cebolla",
+          "Ninja",
+          "Freelancer"
+        ],
+        "answer": "1"
+      },
+      {
+        "-id": "q04",
+        "number": "Pregunta 4",
+        "type": "select",
+        "title": "IV. ¿Qué personaje te traiciona en repetidas ocasiones?",
+        "option": [
+          "Golbez",
+          "Edge",
+          "Cain",
+          "Dio Brando"
+        ],
+        "answer": "2"
+      },
+      {
+        "-id": "q05",
+        "number": "Pregunta 5",
+        "type": "radio",
+        "title": "V. ¿Qué hace Gilgamesh cuando está muy debilitado?",
+        "option": [
+          "Se rinde y acepta su derrota.",
+          "Se enfada y nos ataca con un bonus de daño.",
+          "Nos engaña para echarse Prisa, Escudo y Coraza.",
+          "Huye del combate."
+        ],
+        "answer": "2"
+      },
+      {
+        "-id": "q06",
+        "number": "Pregunta 6",
+        "type": "radio",
+        "title": "V. ¿A quien pertenece la siguiente frase? \"No hay nada como el sonido de cientos de voces gritando al unísono\"",
+        "option": [
+          "Kefka",
+          "Kafka",
+          "Shadow"
+        ],
+        "answer": "0"
+      },
+      {
+        "-id": "q07",
+        "number": "Pregunta 7",
+        "type": "multiple",
+        "title": "VII. ¿Cuales de los siguientes personajes tienen un pasado \"trágico\"? ",
+        "option": [
+          "Cloud",
+          "Barret",
+          "Tifa",
+          "Vincent",
+          "Yuffie",
+          "Sephirot",
+          "Red XIII"
+        ],
+        "answer": [
+          "0",
+          "1",
+          "3",
+          "5",
+          "6"
+        ]
+      },
+      {
+        "-id": "q08",
+        "number": "Pregunta 8",
+        "type": "multiple",
+        "title": "VIII. ¿Cómo se llaman los personajes que interpretamos en el pasado?",
+        "option": [
+          "Laguna",
+          "Kiros",
+          "Cid",
+          "Ward",
+          "Seifer"
+        ],
+        "answer": [
+          "0",
+          "1",
+          "2"
+        ]
+      },
+      {
+        "-id": "q09",
+        "number": "Pregunta 9",
+        "type": "checkbox",
+        "title": "IX. A la siguiente historia...\"Ipsen y Colin eran dos amigos que trabajaban en Treno. Un día Ipsen recibió una carta. Estaba empapada de lluvia y casi no se podía leer. Las únicas palabras que pudo distinguir fueron \"vuelve a casa\". Sin saber muy bien por qué, Ipsen pidió vacaciones, se preparó y emprendió su viaje. Cruzó mares y montañas. Bajo la \"niebla\" fue atacado por monstruos... Pero iba con Colin y entre ambos lo superaron todo. Algún tiempo después Ipsen cayó en la cuenta y le preguntó a Colin: \"Y tú, ¿por qué viniste?\". A lo que Colin le respondió...\"¿Quien cuenta la historia, y cómo termina?\"",
+        "option": [
+          "Yitan",
+          "Freija",
+          "Garnet",
+          "\"Porque tú dijiste que me dejarías solo\".",
+          "\"Porque tú dijiste que te ibas\".",
+          "\"Porque quería acompañarte\"."
+        ],
+        "answer": [
+          "0",
+          "4"
+        ]
+      },
+      {
+        "-id": "q10",
+        "number": "Pregunta 10",
+        "type": "checkbox",
+        "title": "X. ¿Cuales de los siguientes espíritus están presentes en este juego?",
+        "option": [
+          "Ifrit",
+          "Titan",
+          "Fénix",
+          "Shiva",
+          "Bahamut"
+        ],
+        "answer": [
+          "0",
+          "3",
+          "4"
+        ]
+      }
+    ]
+  }
